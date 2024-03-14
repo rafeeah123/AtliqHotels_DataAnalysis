@@ -1,4 +1,4 @@
-# AtliqHotels_DataAnalysis
+# Atliq Hotels Data Analysis Project Using Python and Pandas
 
 ## Problem Statement 
 
